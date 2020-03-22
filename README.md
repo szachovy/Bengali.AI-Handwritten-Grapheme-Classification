@@ -2,7 +2,5 @@
 Classify the components of handwritten Bengali (Kaggle competition)
 </br>
 #### _Dataset download:_
-</br>
 kaggle competitions download -c bengaliai-cv19
-</br>
 ![](BengaliAI-Description.png)
