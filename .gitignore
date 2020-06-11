@@ -125,5 +125,8 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+# dataset
+/bengaliai-cv19
+
 # Pyre type checker
 .pyre/
